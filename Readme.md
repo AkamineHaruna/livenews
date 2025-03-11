@@ -1,6 +1,6 @@
 # Live-News-Portal-in-PHP
 
-Live News Portal in PHP Design and Development by MH RONY
+Live News Portal in PHP Design and Development by Nguyễn Công Dư & Lý Phước Hiền
 
 ### Available Features:
 
