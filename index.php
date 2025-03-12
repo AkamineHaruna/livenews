@@ -145,7 +145,7 @@
                     </div>
                     <?php } ?>
                     <div class="col-md-12"><a href="tel:+8801608445456">
-                            <img src="images/ads.jpg" class="img-fluid"></a>
+                            <img src="images/ads.png" class="img-fluid"></a>
 
                         <!-- Pagination -->
                         <!-- <ul class="pagination justify-content-center mb-4">
@@ -180,7 +180,7 @@
                     </div>
                 </div>
                 <a href="tel:+84979434947">
-                    <img src="images/ads.jpg" class="img-fluid"></a>
+                    <img src="images/ads.png" class="img-fluid"></a>
             </div>
             <!-- Sidebar Widgets Column -->
             <?php include('includes/sidebar.php');?>
