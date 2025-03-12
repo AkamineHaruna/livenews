@@ -48,14 +48,6 @@
                                     <li><a href="manage-comments.php">Approved Comments</a></li>
                                 </ul>
                             </li>
-                            <li>
-                                <a href="#" class="waves-effect"><i class="ti ti-info-alt"></i> <span>Watch Video</span></a>
-
-                            </li>
-                            <li>
-                                <a href="#" class="waves-effect"><i class="fa fa-eye" aria-hidden="true"></i> <span>Website Preview</span></a>
-
-                            </li>
                         </ul>
                     </div>
                     <!-- Sidebar -->
