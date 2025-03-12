@@ -11,7 +11,7 @@ include('includes/config.php');
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <title>Live News Portel || Contact us</title>
+    <title>Live News Portel | Contact us</title>
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
@@ -54,7 +54,7 @@ while($row=mysqli_fetch_array($query))
         <!-- /.row -->
         <?php } ?>
 
-        <div class="col-md-12"><a href="tel:+8801608445456">
+        <div class="col-md-12"><a href="tel:+84979434947">
                 <img src="images/ads.jpg" class="img-fluid"></a>
 
         </div>
