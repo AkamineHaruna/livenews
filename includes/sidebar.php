@@ -16,7 +16,7 @@
     </div>
 </div>
 <a href="tel:+8801608445456">
-    <img src="images/ads.jpg" class="img-fluid"></a>
+    <img src="images/ads.png" class="img-fluid"></a>
 
 <!-- Side Widget -->
 <div class="card my-4 border-0">
@@ -37,7 +37,7 @@
     </div>
 </div>
 <a href="tel:+8801608445456">
-    <img src="images/ads.jpg" class="img-fluid"></a>
+    <img src="images/ads.png" class="img-fluid"></a>
 <div class="card my-4 border-0">
     <h5 class="card-header border-0 bg-white">Popular News</h5>
     <div class="card-body">
@@ -56,7 +56,7 @@
 </div>
 
 <a href="tel:+8801608445456">
-    <img src="images/ads.jpg" class="img-fluid"></a>
+    <img src="images/ads.png" class="img-fluid"></a>
 
 <!-- Side Widget -->
 <div class="card my-4 border-0">
@@ -77,7 +77,7 @@
     </div>
 </div>
 <a href="tel:+8801608445456">
-    <img src="images/ads.jpg" class="img-fluid"></a>
+    <img src="images/ads.png" class="img-fluid"></a>
 
 <h5 class="card-header border-0 bg-transparent">Most Popular</h5>
 <div class="card my-4 border-0">
@@ -86,7 +86,7 @@
     </div>
 </div>
 <a href="tel:+8801608445456">
-    <img src="images/ads.jpg" class="img-fluid"></a>
+    <img src="images/ads.png" class="img-fluid"></a>
 <div class="card my-4 border-0">
     <div class="card-body p-2">
         <iframe width="100%" height="180px" class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Sample Videos / Dummy Videos For Demo Use" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -94,14 +94,14 @@
 </div>
 
 <a href="tel:+8801608445456">
-    <img src="images/ads.jpg" class="img-fluid"></a>
+    <img src="images/ads.png" class="img-fluid"></a>
 <div class="card my-4 border-0">
     <div class="card-body p-2">
         <iframe width="100%" height="180px" class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Sample Videos / Dummy Videos For Demo Use" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 <a href="tel:+8801608445456">
-    <img src="images/ads.jpg" class="img-fluid"></a>
+    <img src="images/ads.png" class="img-fluid"></a>
 <div class="card my-4 border-0">
     <div class="card-body p-2">
         <iframe width="100%" height="180px" class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Sample Videos / Dummy Videos For Demo Use" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
