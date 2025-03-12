@@ -12,7 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <title>Live News Portal| Home Page</title>
+    <title>Live News Portal | Home Page</title>
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
@@ -53,54 +53,54 @@
                 </div>
             </div>
             <div class="col-md-7">
-                <h4 class="widget-title mb-4">Today <span>Highlight</span></h4>
+                <h4 class="widget-title mb-4">Tin nóng <span>hôm nay</span></h4>
                 <!-- Blog Post -->
                 <div class="row">
                     <div class="owl-carousel owl-theme" id="slider">
                         <div class="card mb-4 border-0">
-                            <img class="card-img-top" src="admin/assets/images/01.jpg" alt="" width="100%">
+                            <img class="card-img-top" src="admin/assets/images/ddcbbd3acda1139f8d10992bb9a77884.jpg" alt="" width="100%">
                             <div class="card-body">
                                 <p class="m-0">
                                     <!--category-->
-                                    <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Sports</a>
+                                    <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Kinh doanh</a>
                                     <!--Subcategory--->
-                                    <a class="badge bg-warning text-decoration-none link-light" style="color:#fff">Sports</a>
+                                    <a class="badge bg-warning text-decoration-none link-light" style="color:#fff">Vĩ mô</a>
                                 </p>
                                 <p class="m-0"><small> Posted on 2025-03-12 00:20:09</small></p>
                                 <a href="#" class="card-title text-decoration-none text-dark">
-                                    <h5 class="card-title">FIFA World Cup 2022: Semi-final 1, England vs New Zealand Who Said What</h5>
+                                    <h5 class="card-title">Doanh nghiệp Singapore muốn tăng đầu tư điện tái tạo, khu công nghiệp tại Việt Nam</h5>
                                 </a>
                                 <!-- <a href="news-details.php?nid=<?php echo htmlentities($row['pid'])?>" class="">Read More &rarr;</a> -->
                             </div>
                         </div>
                         <div class="card mb-4 border-0">
-                            <img class="card-img-top" src="admin/postimages/8bc5c30be91dca9d07c1db858c60e39f.jpg" alt="" width="100%">
+                            <img class="card-img-top" src="admin/postimages/vna-potal-tong-bi-thu-to-lam-t-1447-2512-1741704347.jpg" alt="" width="100%">
                             <div class="card-body">
                                 <p class="m-0">
                                     <!--category-->
-                                    <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Sports</a>
+                                    <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Kinh doanh</a>
                                     <!--Subcategory--->
-                                    <a class="badge bg-warning text-decoration-none link-light" style="color:#fff">Sports</a>
+                                    <a class="badge bg-warning text-decoration-none link-light" style="color:#fff">Vĩ mô</a>
                                 </p>
                                 <p class="m-0"><small> Posted on 2025-03-12 00:20:09</small></p>
                                 <a href="#" class="card-title text-decoration-none text-dark">
-                                    <h5 class="card-title">T20 World Cup 2022: Semi-final 1, England vs New Zealand Who Said What</h5>
+                                    <h5 class="card-title">Doanh nghiệp Singapore muốn tăng đầu tư điện tái tạo, khu công nghiệp tại Việt Nam</h5>
                                 </a>
                                 <!-- <a href="news-details.php?nid=<?php echo htmlentities($row['pid'])?>" class="">Read More &rarr;</a> -->
                             </div>
                         </div>
                         <div class="card mb-4 border-0">
-                            <img class="card-img-top" src="admin/postimages/8bc5c30be91dca9d07c1db858c60e39f.jpg" alt="" width="100%">
+                            <img class="card-img-top" src="admin/postimages/vna-potal-tong-bi-thu-to-lam-t-1447-2512-1741704347.jpg" alt="" width="100%">
                             <div class="card-body">
                                 <p class="m-0">
                                     <!--category-->
-                                    <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Sports</a>
+                                    <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Kinh doanh</a>
                                     <!--Subcategory--->
-                                    <a class="badge bg-warning text-decoration-none link-light" style="color:#fff">Sports</a>
+                                    <a class="badge bg-warning text-decoration-none link-light" style="color:#fff">Vĩ mô</a>
                                 </p>
                                 <p class="m-0"><small> Posted on 2025-03-12 00:20:09</small></p>
                                 <a href="#" class="card-title text-decoration-none text-dark">
-                                    <h5 class="card-title">T20 World Cup 2022: Semi-final 1, England vs New Zealand Who Said What</h5>
+                                    <h5 class="card-title">Doanh nghiệp Singapore muốn tăng đầu tư điện tái tạo, khu công nghiệp tại Việt Nam</h5>
                                 </a>
                                 <!-- <a href="news-details.php?nid=<?php echo htmlentities($row['pid'])?>" class="">Read More &rarr;</a> -->
                             </div>
@@ -144,7 +144,7 @@
                         </div>
                     </div>
                     <?php } ?>
-                    <div class="col-md-12"><a href="tel:+8801608445456">
+                    <div class="col-md-12"><a href="tel:+84979434947">
                             <img src="images/ads.png" class="img-fluid"></a>
 
                         <!-- Pagination -->
@@ -162,7 +162,7 @@
                     <!-- Static -->
                     <div class="col-md-12">
                         <div class="card mb-4 mt-5 border-0">
-                            <img class="card-img-top" src="admin/postimages/8bc5c30be91dca9d07c1db858c60e39f.jpg" alt="" width="100%">
+                            <img class="card-img-top" src="admin/postimages/vna-potal-tong-bi-thu-to-lam-t-1447-2512-1741704347.jpg" alt="" width="100%">
                             <div class="card-body">
                                 <p class="m-0">
                                     <!--category-->
@@ -172,7 +172,7 @@
                                 </p>
                                 <p class="m-0"><small> Posted on 2025-03-12 00:20:09</small></p>
                                 <a href="#" class="card-title text-decoration-none text-dark">
-                                    <h5 class="card-title">T20 World Cup 2022: Semi-final 1, England vs New Zealand Who Said What</h5>
+                                    <h5 class="card-title">Doanh nghiệp Singapore muốn tăng đầu tư điện tái tạo, khu công nghiệp tại Việt Nam</h5>
                                 </a>
                                 <!-- <a href="news-details.php?nid=<?php echo htmlentities($row['pid'])?>" class="">Read More &rarr;</a> -->
                             </div>
