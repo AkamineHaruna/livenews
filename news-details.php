@@ -88,12 +88,12 @@
                         <!--category-->
 
                         <p>
-                            by <?php echo htmlentities($row['postedBy']);?> on | <?php echo htmlentities($row['postingdate']);?>
+                            Đăng bởi <?php echo htmlentities($row['postedBy']);?> vào | <?php echo htmlentities($row['postingdate']);?>
                             <?php if($row['lastUpdatedBy']!=''):?>
-                            Last Updated by <?php echo htmlentities($row['lastUpdatedBy']);?> on<?php echo htmlentities($row['UpdationDate']);?>
+                            Cập nhật lần cuối bởi <?php echo htmlentities($row['lastUpdatedBy']);?> on<?php echo htmlentities($row['UpdationDate']);?>
                         </p>
                         <?php endif;?>
-                        <p><strong>Share:</strong> <a href="http://www.facebook.com/share.php?u=<?php echo $currenturl;?>" target="_blank">Facebook</a> |
+                        <p><strong>Chia sẽ:</strong> <a href="http://www.facebook.com/share.php?u=<?php echo $currenturl;?>" target="_blank">Facebook</a> |
                             <a href="https://twitter.com/share?url=<?php echo $currenturl;?>" target="_blank">Twitter</a> |
                             <a href="https://web.whatsapp.com/send?text=<?php echo $currenturl;?>" target="_blank">Whatsapp</a> |
                             <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=<?php echo $currenturl;?>" target="_blank">Linkedin</a> <b>Visits:</b> <?php print $visits; ?>
@@ -134,20 +134,20 @@
         <div class="col-md-8">
             <hr>
             <div class="card my-4 bg-transparent border-0">
-                <h5 class="card-header bg-transparent border-0">Leave a Comment</h5>
+                <h5 class="card-header bg-transparent border-0">Bình luận</h5>
                 <div class="card-body">
                     <form name="Comment" method="post">
                         <input type="hidden" name="csrftoken" value="<?php echo htmlentities($_SESSION['token']); ?>" />
                         <div class="form-group">
-                            <input type="text" name="name" class="form-control rounded-0" placeholder="Enter your fullname" required>
+                            <input type="text" name="name" class="form-control rounded-0" placeholder="Họ và tên" required>
                         </div>
                         <div class="form-group">
-                            <input type="email" name="email" class="form-control rounded-0" placeholder="Enter your Valid email" required>
+                            <input type="email" name="email" class="form-control rounded-0" placeholder="Email" required>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control rounded-0" name="comment" rows="3" placeholder="Comment" required></textarea>
+                            <textarea class="form-control rounded-0" name="comment" rows="3" placeholder="Bình luận" required></textarea>
                         </div>
-                        <button type="submit" class="btn btn-danger" name="submit">Submit</button>
+                        <button type="submit" class="btn btn-danger" name="submit">Gửi</button>
                     </form>
                 </div>
             </div>
