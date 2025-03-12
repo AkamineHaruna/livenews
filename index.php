@@ -166,9 +166,9 @@
                             <div class="card-body">
                                 <p class="m-0">
                                     <!--category-->
-                                    <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Sports</a>
+                                    <a class="badge bg-success text-decoration-none link-light" href="#" style="color:#fff">Kinh doanh</a>
                                     <!--Subcategory--->
-                                    <a class="badge bg-warning text-decoration-none link-light" style="color:#fff">Sports</a>
+                                    <a class="badge bg-warning text-decoration-none link-light" style="color:#fff">Vĩ mô</a>
                                 </p>
                                 <p class="m-0"><small> Posted on 2025-03-12 00:20:09</small></p>
                                 <a href="#" class="card-title text-decoration-none text-dark">
