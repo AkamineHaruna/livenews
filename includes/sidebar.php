@@ -1,9 +1,7 @@
 <div class="col-md-3 ">
     <!-- Search Widget -->
-    <!-- <h4 class="widget-title mb-5">Don't <span>Miss</span></h4> -->
-
     <div class="card mb-4 border-0">
-        <h5 class="card-header border-0 bg-white">Search</h5>
+        <h5 class="card-header border-0 bg-white">Tìm kiếm</h5>
         <div class="card-body">
             <form name="search" action="search.php" method="post">
                 <div class="input-group">
@@ -20,7 +18,7 @@
 
 <!-- Side Widget -->
 <div class="card my-4 border-0">
-    <h5 class="card-header border-0 bg-white">Recent News</h5>
+    <h5 class="card-header border-0 bg-white">Tin mới</h5>
     <div class="card-body">
         <ul class="mb-0 list-unstyled">
             <?php
@@ -39,7 +37,7 @@
 <a href="tel:+8801608445456">
     <img src="images/ads.png" class="img-fluid"></a>
 <div class="card my-4 border-0">
-    <h5 class="card-header border-0 bg-white">Popular News</h5>
+    <h5 class="card-header border-0 bg-white">Tin nóng</h5>
     <div class="card-body">
         <ul class="list-unstyled">
             <?php
@@ -79,7 +77,7 @@
 <a href="tel:+8801608445456">
     <img src="images/ads.png" class="img-fluid"></a>
 
-<h5 class="card-header border-0 bg-transparent">Most Popular</h5>
+<h5 class="card-header border-0 bg-transparent">Video</h5>
 <div class="card my-4 border-0">
     <div class="card-body p-2">
         <iframe width="100%" height="180px" class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Sample Videos / Dummy Videos For Demo Use" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
