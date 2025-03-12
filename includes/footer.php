@@ -44,7 +44,7 @@
     justify-content: space-around;
     
     align-items: center;">
-            <p style="text-align: center; "> CopyRight by <a href="https://github.com/AkamineHaruna">Haruna Akamine</a> Design and Developer <a href="https://github.com/AkamineHaruna">Nguyễn Công Dư & Lý Phước Hiền</a> All Resalve
+            <p style="text-align: center; "> CopyRight by <a href="https://github.com/AkamineHaruna">Haruna Akamine</a> Design and Developer <a href="https://github.com/AkamineHaruna">Nguyễn Công Dư & Lý Phước Hiền</a>
                 <?php echo "20".date("y"); ?></p>
         </div>
     </div>
