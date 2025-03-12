@@ -13,25 +13,25 @@
             </div>
             <div class="col">
                 <ul class="float-left list-unstyled ">
-                    <li class="mb-2"><a class="text-dark" href="#">Healthy Living</a></li>
-                    <li class="mb-2"><a class="text-dark" href="#">Medical Research</a></li>
-                    <li class="mb-2"><a class="text-dark" href="#">Children’s Health</a></li>
+                    <li class="mb-2"><a class="text-dark" href="#">Testing</a></li>
+                    <li class="mb-2"><a class="text-dark" href="#">Testing</a></li>
+                    <li class="mb-2"><a class="text-dark" href="#">Testing</a></li>
 
                 </ul>
             </div>
             <div class="col">
                 <ul class="float-left list-unstyled ">
-                    <li class="mb-2"><a href="#" class="text-dark">Real Estate</a></li>
-                    <li class="mb-2"><a href="#" class="text-dark">Commercial</a></li>
-                    <li class="mb-2"><a href="#" class="text-dark">Find A Home</a></li>
+                    <li class="mb-2"><a href="#" class="text-dark">Testing</a></li>
+                    <li class="mb-2"><a href="#" class="text-dark">Testing</a></li>
+                    <li class="mb-2"><a href="#" class="text-dark">Testing</a></li>
 
                 </ul>
             </div>
             <div class="col">
                 <ul class="float-left list-unstyled ">
-                    <li class="mb-2"><a href="#" class="text-dark">U.S.</a></li>
-                    <li class="mb-2"><a href="#" class="text-dark">Politics</a></li>
-                    <li class="mb-2"><a href="#" class="text-dark">N.Y.</a></li>
+                    <li class="mb-2"><a href="#" class="text-dark">Testing</a></li>
+                    <li class="mb-2"><a href="#" class="text-dark">Testing</a></li>
+                    <li class="mb-2"><a href="#" class="text-dark">Testing</a></li>
 
                 </ul>
             </div>
