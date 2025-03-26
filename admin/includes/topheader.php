@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Live News Portal By MH RONY.</title>
+    <title>Live News Portal</title>
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
 
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
